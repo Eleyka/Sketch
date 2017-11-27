@@ -11,10 +11,10 @@ Herramienta utilizada por profesores, training managers, directores y gerentes d
 
 ## Identificando los elementos de navegación
 
-![Freelancer Website](assets/img/1.jpg)
+![Imagen 1](assets/img/1.jpg)
 ***
-![Freelancer Website](assets/img/2.jpg)
+![Imagen 2](assets/img/2.jpg)
 ***
-![Freelancer Website](assets/img/3.jpg)
+![Imagen 3](assets/img/3.jpg)
 ***
-![Freelancer Website](assets/img/4.jpg)
+![Imagen 4](assets/img/4.jpg)
